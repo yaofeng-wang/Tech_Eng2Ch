@@ -1,4 +1,3 @@
-# Tech_Eng2Ch
 - script: 脚本
 - Devops Engineer: 运(yun4)维(wei2)工程师
 - buffer: 缓(huan3)冲(chong1)
