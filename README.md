@@ -40,7 +40,8 @@ E.g. 函数返回了两个**字符串** -> function returns two strings
 - statement: 语句
 - variable declaration: 变量声明
 - boolean type: 布尔类型
-- explicit: 显式
+- explicit: 显(xian3)式(shi4)
+- implicit: 隐(yin3)含(han2)
 - inference: 推导
 - context: 上下文
 - loop construct: 循环结构
