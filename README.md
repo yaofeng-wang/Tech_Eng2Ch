@@ -1,9 +1,9 @@
 # Tech_Eng2Ch
 - script: 脚本
-- Devops Engineer: 运(Yun4)维(Wei2)工程师
-- buffer: 缓(Huan3)冲(Chong1)
-- function: 函(Han2)数(Shu4)
-- parameter: 參(Can1)数 
+- Devops Engineer: 运(yun4)维(wei2)工程师
+- buffer: 缓(huan3)冲(chong1)
+- function: 函(han2)数(shu4)
+- parameter: 參(can1)数 
 - database: 数据库
 - Object Oriented Programming: 面向对象的程序设计
 - module: 模(Mo2)块
@@ -21,7 +21,14 @@ E.g. 在远程服务器上**编译**并**执行**程序 -> compile and run the p
 E.g. 语法**高亮**: syntax highlight
 - package: 包
 -> 每个 Go 程序都是由**包**构成的: Every Go program is made up of packages.
--
+- import: 导(dao3)入
+- source code: 源码/ 源代码
+- 均: 全；都
+E.g. "math/rand" 包中的源码**均**以 "package rand" 语句开始 -> the "math/rand" package comprises files that begin with the statement "packet rand".
+- deterministic: 固定
+E.g. 此程序的运行环境是**固定**的 -> The environment in which these programs are executed is deterministic
+- constant: 常量
+E.g. 练习场中的时间为**常量**，因此你需要用其它的值作为种子数 -> Time is constant in the playground, so you will need to use something else as the seed
 
 
 
